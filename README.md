@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SprayandPray/Planecrash_Visualization.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-## Our homwpage is https://sprayandpray.github.io/Planecrash_Visualization.github.io/
+## Our homwpage 
+https://sprayandpray.github.io/Plane_crash_Visualization.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
